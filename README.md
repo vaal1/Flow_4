@@ -10,7 +10,7 @@
 - Mensaje mqtt
 
 
-mosquitto_pub -h localhost -t codigoIoT/Mor/mqtt/flow4 -m '{"ID":"Hugo Vargas","temp":21,"hum":53}'
+mosquitto_pub -h localhost -t codigoIoT/Mor/mqtt/flow4 -m '{"ID":"Valerie Romero","temp":21,"hum":53}'
 
 Cada nodo a su salida genera un objeto llamado msg
 - mgs
